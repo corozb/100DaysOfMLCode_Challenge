@@ -13,6 +13,10 @@ I was seeking for communities and jobs oportunities:
 - Meetup: Data Science FEM and PyLadies (they admit me, what can I do THX :P), Python Medellin, Machine Learning
 - Greater Copenhagen
 - `Medium` articles related with reinvention stories for motivation
+- Slack channels
+- YouTube channels (Siraj Raval, DotCSV, cctmexico, sentdex, AMP Tech)
+
+
 
 
 
