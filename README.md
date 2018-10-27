@@ -8,6 +8,13 @@ Today I was consuming the videos from the channel of [DotCSV](https://www.youtub
 ## Day 2: 24/10/2018
 I star programming a Neural Network to clasify data into two classes. [Tutorial of DotCSV](https://github.com/corozb/100DaysOfMLCode_Challenge/blob/master/Red_Neuronal_desde_Cero.ipynb)
 
+## Day 3: 26/10/2018
+I was seeking for communities and jobs oportunities:
+- Meetup: Data Science FEM and PyLadies (they admit me, what can I do THX :P), Python Medellin, Machine Learning
+- Greater Copenhagen
+- `Medium` articles related with reinvention stories for motivation
+
+
 
 
 
