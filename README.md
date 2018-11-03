@@ -16,6 +16,26 @@ I was seeking for communities and jobs oportunities:
 - Slack channels
 - YouTube channels (Siraj Raval, DotCSV, cctmexico, sentdex, AMP Tech)
 
+## Day 4 : 27/10/2018
+I had the chance to meeting with the girls in Data Science FEM, I knew their methodology and what can I find into the team. I showed my GitHub and what I did so I promised that the next meeting I will teach (both we learn) a simple recommendation system with data of FourSquare.
+
+## Day 5 : 29/10/2018
+I practiced the class of recommendation system that I learned in Platzi and will share with the women in Data Science FEM.
+
+## Day 6 : 30/10/2018
+Knowing seaborn library and how to graph data. Also I learnt to build 3D graphs with Matplotlib. 
+
+## Day 7 : 01/11/2018
+Practicing Pandas Libraries and how create dataframes and manipulate data
+
+## Day 8 : 02/11/2018
+Again preparing the tutorial for the women in Data Science FEM that gonna be on next day, Saturday'
+
+
+
+
+
+
 
 
 
